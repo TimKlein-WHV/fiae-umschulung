@@ -1,0 +1,47 @@
+{
+  "folders": [
+    { "path": "python",           "name": "🐍 Python" },
+    { "path": "sql",              "name": "🗄️  SQL" },
+    { "path": "lernprojekt-team","name": "👥 Team-Projekt" }
+  ],
+  "settings": {
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "editor.rulers": [79],
+    "editor.tabSize": 4,
+    "files.autoSave": "onFocusChange",
+    "[python]": {
+      "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "[sql]": {
+      "editor.tabSize": 2
+    },
+    "python.defaultInterpreterPath": "python3",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Tokyo Night"
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-python.python",
+      "ms-python.vscode-pylance",
+      "charliermarsh.ruff",
+      "usernamehw.errorlens",
+      "mtxr.sqltools",
+      "eamodio.gitlens",
+      "pkief.material-icon-theme"
+    ]
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Python: aktuelle Datei",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${file}",
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+}
