@@ -1,9 +1,9 @@
 # 🎓 FIAE Umschulung – Lernrepo
 
 Moin, 
-da ich zwischen Home- und Präsenzunterricht wechsle und ich eh den Umgang mit Git und Github lernen möchte, 
+da ich zwischen Home- und Präsenzunterricht wechsle und ich eh den Umgang mit Github lernen möchte, 
 habe ich mir dieses Lernrepo erstellt. 
-Dies hat zum einen den Vorteil das ich meinen Code überall abrufen kann und ich mich regelmäßig mit Git befasse.
+Dies hat zum einen den Vorteil das ich meinen Code überall abrufen kann und zum anderen befasse ich mich regelmäßig mit Github.
 
 
 ## Umschulung
