@@ -1,5 +1,11 @@
 # 🎓 FIAE Umschulung – Lernrepo
 
+Moin, 
+da ich zwischen Home- und Präsenzunterricht wechsle und ich eh den Umgang mit Git und Github lernen möchte, 
+habe ich mir dieses Lernrepo erstellt. 
+Dies hat zum einen den Vorteil das ich meinen Code überall abrufen kann und ich mich regelmäßig mit Git befasse.
+
+
 ## Umschulung
 Ein paar Infos zur Umschulung
 - Start: 02.02.2026 (2 Jahre)
