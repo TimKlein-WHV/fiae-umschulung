@@ -25,5 +25,4 @@ FL.werte_zurück_setzen(lager)
 
 # #4. Positionen mit leeren Regalen
 print("\n--- -4.- ---")
-print("work in progress!")
 FL.leere_regale_zaehlen(lager)
