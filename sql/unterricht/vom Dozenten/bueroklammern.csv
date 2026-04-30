@@ -1,0 +1,201 @@
+Farbe;groesse;Hersteller;Datum;Anzahl
+rot;klein;Leitz;2016;48
+blau;mittel;Durable;2015;20
+gelb;groß;Herlitz;2014;12
+grün;klein;no name;2013;36
+weiß;mittel;Leitz;2012;24
+rot;groß;Durable;2011;6
+blau;klein;Herlitz;2010;50
+gelb;mittel;no name;2016;100
+grün;groß;Leitz;2015;18
+weiß;klein;Durable;2014;72
+rot;mittel;Herlitz;2013;48
+blau;groß;no name;2012;20
+gelb;klein;Leitz;2011;12
+grün;mittel;Durable;2010;36
+weiß;groß;Herlitz;2016;24
+rot;klein;no name;2015;6
+blau;mittel;Leitz;2014;50
+gelb;groß;Durable;2013;100
+grün;klein;Herlitz;2012;18
+weiß;mittel;no name;2011;72
+rot;groß;Leitz;2010;48
+blau;klein;Durable;2016;20
+gelb;mittel;Herlitz;2015;12
+grün;groß;no name;2014;36
+weiß;klein;Leitz;2013;24
+rot;mittel;Durable;2012;6
+blau;groß;Herlitz;2011;50
+gelb;klein;no name;2010;100
+grün;mittel;Leitz;2016;18
+weiß;groß;Durable;2015;72
+rot;klein;Herlitz;2014;48
+blau;mittel;no name;2013;20
+gelb;groß;Leitz;2012;12
+grün;klein;Durable;2011;36
+weiß;mittel;Herlitz;2010;24
+rot;groß;no name;2016;6
+blau;klein;Leitz;2015;50
+gelb;mittel;Durable;2014;100
+grün;groß;Herlitz;2013;18
+weiß;klein;no name;2012;72
+rot;mittel;Leitz;2011;48
+blau;groß;Durable;2010;20
+gelb;klein;Herlitz;2016;12
+grün;mittel;no name;2015;36
+weiß;groß;Leitz;2014;24
+rot;klein;Durable;2013;6
+rot;mittel;Herlitz;2012;50
+blau;groß;no name;2011;100
+gelb;klein;Leitz;2010;18
+grün;mittel;Durable;2016;72
+weiß;groß;Herlitz;2015;48
+rot;klein;no name;2014;20
+blau;mittel;Leitz;2013;12
+rot;groß;Leitz;2012;36
+blau;klein;Durable;2011;24
+gelb;mittel;Herlitz;2010;6
+grün;groß;no name;2016;50
+weiß;klein;Leitz;2015;100
+rot;mittel;Durable;2014;18
+blau;groß;Herlitz;2013;72
+rot;klein;no name;2012;48
+blau;mittel;Leitz;2011;20
+gelb;groß;Durable;2010;12
+grün;klein;Herlitz;2016;36
+weiß;mittel;no name;2015;24
+rot;groß;Leitz;2014;6
+blau;klein;Durable;2013;50
+rot;mittel;Herlitz;2012;100
+blau;groß;no name;2011;18
+gelb;klein;Leitz;2010;72
+grün;mittel;Durable;2016;48
+weiß;groß;Herlitz;2015;20
+rot;klein;no name;2014;12
+blau;mittel;Leitz;2013;36
+rot;groß;Durable;2012;24
+blau;klein;Herlitz;2011;6
+gelb;mittel;no name;2010;50
+grün;groß;Leitz;2016;100
+weiß;klein;Durable;2015;18
+rot;mittel;Herlitz;2014;72
+blau;groß;no name;2013;48
+rot;klein;Leitz;2012;20
+blau;mittel;Durable;2011;12
+gelb;groß;Herlitz;2010;36
+grün;klein;no name;2016;24
+weiß;mittel;Leitz;2015;6
+rot;groß;Durable;2014;50
+blau;klein;Herlitz;2013;100
+rot;mittel;no name;2012;18
+blau;groß;Leitz;2011;72
+gelb;klein;Durable;2010;48
+grün;mittel;Herlitz;2016;20
+weiß;groß;no name;2015;12
+rot;klein;Leitz;2014;36
+blau;mittel;Durable;2013;24
+rot;groß;Herlitz;2012;6
+blau;klein;no name;2011;50
+gelb;mittel;Leitz;2010;100
+grün;groß;Durable;2016;18
+weiß;klein;Herlitz;2015;72
+rot;mittel;no name;2014;48
+blau;groß;Leitz;2013;20
+rot;klein;Durable;2012;12
+blau;mittel;Herlitz;2011;36
+gelb;groß;no name;2010;24
+grün;klein;Leitz;2016;6
+weiß;mittel;Leitz;2015;50
+rot;groß;Durable;2014;100
+blau;klein;Herlitz;2013;18
+rot;mittel;no name;2012;72
+blau;groß;Leitz;2011;48
+gelb;klein;Durable;2010;20
+grün;mittel;Herlitz;2016;12
+weiß;groß;no name;2015;36
+rot;klein;Leitz;2014;24
+blau;mittel;Durable;2013;6
+rot;groß;Herlitz;2012;50
+blau;klein;no name;2011;100
+gelb;mittel;Leitz;2010;18
+grün;groß;Durable;2016;72
+weiß;klein;Herlitz;2015;48
+rot;mittel;no name;2014;20
+blau;groß;Leitz;2013;12
+rot;klein;Durable;2012;36
+blau;mittel;Herlitz;2011;24
+gelb;groß;no name;2010;6
+grün;klein;Leitz;2016;50
+weiß;mittel;Durable;2015;100
+rot;groß;Herlitz;2014;18
+blau;klein;no name;2013;72
+rot;mittel;Leitz;2012;48
+blau;groß;Durable;2011;20
+gelb;klein;Herlitz;2010;12
+grün;mittel;no name;2016;36
+weiß;groß;Leitz;2015;24
+rot;klein;Durable;2014;6
+blau;mittel;Herlitz;2013;50
+rot;groß;Leitz;2012;100
+blau;klein;Durable;2011;18
+gelb;mittel;Herlitz;2010;72
+grün;groß;no name;2016;48
+weiß;klein;Leitz;2015;20
+rot;mittel;Durable;2014;12
+blau;groß;Herlitz;2013;36
+rot;klein;no name;2012;24
+blau;mittel;Leitz;2011;6
+gelb;groß;Durable;2010;50
+grün;klein;Herlitz;2016;100
+weiß;mittel;no name;2015;18
+rot;groß;Leitz;2014;72
+blau;klein;Durable;2013;48
+rot;mittel;Herlitz;2012;20
+blau;groß;no name;2011;12
+gelb;klein;Leitz;2010;36
+grün;mittel;Durable;2016;24
+weiß;groß;Herlitz;2015;6
+rot;klein;no name;2014;50
+blau;mittel;Leitz;2013;100
+rot;groß;Durable;2012;18
+blau;klein;Herlitz;2011;72
+gelb;mittel;no name;2010;48
+grün;groß;Leitz;2016;20
+weiß;klein;Durable;2015;12
+rot;mittel;Herlitz;2014;36
+blau;groß;no name;2013;24
+rot;klein;Leitz;2012;6
+blau;mittel;Durable;2011;50
+gelb;groß;Herlitz;2010;100
+grün;klein;no name;2016;18
+weiß;mittel;Leitz;2015;72
+rot;groß;Durable;2014;48
+blau;klein;Herlitz;2013;20
+rot;mittel;no name;2012;12
+blau;groß;Leitz;2011;36
+gelb;klein;Durable;2010;24
+grün;mittel;Herlitz;2016;6
+weiß;groß;no name;2015;50
+rot;klein;Leitz;2014;100
+blau;mittel;Durable;2013;18
+rot;groß;Herlitz;2012;72
+blau;klein;no name;2011;48
+gelb;mittel;Leitz;2010;20
+grün;groß;Durable;2016;12
+weiß;klein;Herlitz;2015;36
+rot;mittel;no name;2014;24
+blau;groß;Leitz;2013;6
+rot;klein;Durable;2012;50
+blau;mittel;Herlitz;2011;100
+gelb;groß;no name;2010;18
+grün;klein;Leitz;2016;72
+weiß;mittel;Leitz;2015;48
+rot;groß;Durable;2014;20
+blau;klein;Herlitz;2013;12
+rot;mittel;no name;2012;36
+blau;groß;Leitz;2011;24
+gelb;klein;Durable;2010;6
+grün;mittel;Herlitz;2016;50
+weiß;groß;no name;2015;100
+rot;klein;Leitz;2014;18
+blau;mittel;Durable;2013;72
