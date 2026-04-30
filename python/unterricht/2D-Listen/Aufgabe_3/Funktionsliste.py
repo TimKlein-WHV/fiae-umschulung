@@ -36,9 +36,13 @@ def bester_spieler(punkte_gesamt):
             
 
 #3.Durchschnitt jeder Kategorie
-
-
-#4. Neue Liste mit Teilnehmern mit > 25 Punkte
-
-
-
+def kategorie_durchschnitt(punkte):
+    
+    katergorie_punkte = []
+    index = 0     
+    
+    for spieler in punkte:
+       kategorie = 0 
+       for kategorie in spieler: 
+           
+            
