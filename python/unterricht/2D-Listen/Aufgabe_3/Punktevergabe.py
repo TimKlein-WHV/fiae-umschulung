@@ -10,26 +10,24 @@ punkte =[
         [3, 4, 2, 5]
         ]
 
-# 8 + 5 + 9 + 3 
-# wie komme ich an den wert von index 0 (8) 
-a = punkte[0][0]
-print(a)
-#x = FL.punkte_gesamt(punkte)
-#y = FL.bester_spieler(x) 
+
+bester_spieler_speicher = FL.punkte_gesamt(punkte)
+bester_spieler_ausgabe = FL.bester_spieler(bester_spieler_speicher) 
 
 
 #1 Gesamtzahl aller Punkte 
-#print("\n--- -1.- ---")
-#print(f"Die gesamtpunkte der Spieler:{FL.punkte_gesamt(punkte)}")
+print("\n--- -1.- ---")
+print(f"Die gesamtpunkte der Spieler:{FL.punkte_gesamt(punkte)}")
 
 
-# #2. Teilnehmer mit höchster Punktzahl  
-#print("\n--- -2.- ---")
-#print(f"Der Beste spieler hat {y}")
+#2. Teilnehmer mit höchster Punktzahl  
+print("\n--- -2.- ---")
+print(f"Der beste Spieler {bester_spieler_ausgabe} Punkte")
 
 # #3.Durchschnitt jeder Kategorie
-#print("\n--- -3.- ---")
-#print(a)
-# Neue Liste mit Teilnehmern mit > 25 Punkte
+print("\n--- -3.- ---")
+print("Work in progress!")
 
+
+# Neue Liste mit Teilnehmern mit > 25 Punkte
 # print("\n--- -4.- ---")'
