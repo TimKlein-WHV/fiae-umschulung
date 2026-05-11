@@ -36,7 +36,9 @@ logs/
 desktop.ini
 
 # Sontige
+python/LEK-Vorbereitung/
 python/Werkstatt/
+sql/LEK-Vorbereitung/
 sql/Werkstatt/
 CLAUDE.md
 
