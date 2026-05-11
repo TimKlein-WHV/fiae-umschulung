@@ -1,5 +1,5 @@
 # =============================================================================
-#  FUNKTIONEN IN PYTHON – Von Null erklärt für Quereinsteiger
+#  FUNKTIONEN IN PYTHON
 # =============================================================================
 #
 #  Was ist eine Funktion überhaupt?

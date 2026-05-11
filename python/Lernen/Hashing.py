@@ -1,5 +1,5 @@
 # =============================================================================
-#  HASHING & SETS IN PYTHON – Von Null erklärt für Quereinsteiger
+#  HASHING & SETS IN PYTHON 
 # =============================================================================
 #
 #  Was ist ein Hash überhaupt?

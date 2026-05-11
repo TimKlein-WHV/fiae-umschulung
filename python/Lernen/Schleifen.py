@@ -1,5 +1,5 @@
 # =============================================================================
-# SCHLEIFEN IN PYTHON – Wiederholung bis der Arzt kommt (für Quereinsteiger)
+# SCHLEIFEN IN PYTHON
 # =============================================================================
 
 
