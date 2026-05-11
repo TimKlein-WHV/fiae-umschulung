@@ -1,5 +1,6 @@
 ## ------------------------- -Imports- ------------------------- ##
-import Funktionsliste as FL
+
+#import Funktionsliste as FL
 
 
 ## ------------------------ -Variablen- ------------------------ ##
@@ -23,4 +24,7 @@ print(f"\nMitarbeiter: {mitarbeiter_id}                    {date}")
 
 print("\nTag   Kommen   Gehen   Anwesenheit   Bemerkung")
 print("===============================================")
-FL.zeiten_berechnen(zeiten)
+
+#FL.zeiten_berechnen(zeiten)
+
+print(zeiten)
