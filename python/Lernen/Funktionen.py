@@ -85,11 +85,11 @@ print(addiere_ohne_return(3, 5))  # -> None   (Python gibt "nichts" zurück)
 def beschreibe_person(name, alter, stadt):
     print(name + " ist " + str(alter) + " Jahre alt und wohnt in " + stadt)
 
-beschreibe_person("Tim", 37, "Wilhelmshaven")
-# -> Tim ist 37 Jahre alt und wohnt in Wilhelmshaven
+beschreibe_person("Tim", 36, "Wilhelmshaven")
+# -> Tim ist 36 Jahre alt und wohnt in Wilhelmshaven
 
-# FALSCH – Reihenfolge durcheinander: alter=Tim, name=37 → Chaos
-# beschreibe_person(37, "Tim", "Wilhelmshaven")
+# FALSCH – Reihenfolge durcheinander: alter=Tim, name=36 → Chaos
+# beschreibe_person(36, "Tim", "Wilhelmshaven")
 
 
 # =============================================================================
@@ -98,8 +98,8 @@ beschreibe_person("Tim", 37, "Wilhelmshaven")
 #
 #  Statt Reihenfolge zu merken → Parameter per Name ansprechen.
 
-beschreibe_person(alter=37, stadt="Wilhelmshaven", name="Tim")
-# -> Tim ist 37 Jahre alt und wohnt in Wilhelmshaven  ✓ (Reihenfolge egal)
+beschreibe_person(alter=36, stadt="Wilhelmshaven", name="Tim")
+# -> Tim ist 36 Jahre alt und wohnt in Wilhelmshaven  ✓ (Reihenfolge egal)
 
 
 # =============================================================================

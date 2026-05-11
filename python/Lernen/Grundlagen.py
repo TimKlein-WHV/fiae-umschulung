@@ -52,7 +52,7 @@ Code auskommentieren will.
 # Du kannst den Wert jederzeit lesen oder überschreiben.
 
 name = "Tim"        # Zettel "name" enthält den Text "Tim"
-alter = 37          # Zettel "alter" enthält die Zahl 37
+alter = 36          # Zettel "alter" enthält die Zahl 36
 groesse = 1.80      # Zettel "groesse" enthält die Kommazahl 1.80
 ist_schueler = True  # Zettel "ist_schueler" enthält Ja/Nein-Wert
 
@@ -61,7 +61,7 @@ ist_schueler = True  # Zettel "ist_schueler" enthält Ja/Nein-Wert
 # name = "Tim"  →  "Der Name 'name' soll ab jetzt 'Tim' sein"
 
 print(name)         # Tim
-print(alter)        # 37
+print(alter)        # 36
 
 # Variablen können überschrieben werden:
 alter = 38
@@ -206,9 +206,9 @@ print("\n--- f-Strings ---")
 # f-Strings = formatierte Strings. Ein f vor dem Anführungszeichen,
 # dann kannst du mit {} direkt Variablen und Ausdrücke reinschreiben.
 
-alter = 37
+alter = 36
 print(f"Ich bin {vorname}, {alter} Jahre alt.")
-# → Ich bin Tim, 37 Jahre alt.
+# → Ich bin Tim, 36 Jahre alt.
 
 # Du kannst auch Berechnungen direkt reinschreiben:
 print(f"In 10 Jahren bin ich {alter + 10} Jahre alt.")
